@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋<br><br><br>- 🔭 I’m currently working on ...<br>- 🌱 I’m currently learning Java ...<br>- 👯 I’m looking to collaborate on Backend Projects ...<br>- 🤔 I’m looking for help with My Career in Backend Dev ...<br>- 💬 Ask me how the mangoes will ripen,<br>and I'll probably throw a loop until they turn yellow....<br>- 📫 How to reach me: rishikeshdas788@gmail.com or you can dm me on linkedln via -  ...<br>- 😄 Pronouns: He/Him...<br>- ⚡ Fun fact:I enjoy breaking problems into smaller pieces until they become solvable — basically debugging life one step at a time. ...<br>-->
+## Hi there 👋<br><br><br>- 🔭 I’m currently working on ...<br>- 🌱 I’m currently learning Java ...<br>- 👯 I’m looking to collaborate on Backend Projects ...<br>- 🤔 I’m looking for help with My Career in Backend Dev ...<br>- 💬 Ask me how the mangoes will ripen,<br>and I'll probably throw a loop until they turn yellow....<br>- 📫 How to reach me: rishikeshdas788@gmail.com or you can dm me on linkedln via - rishikeshdas-000 ...<br>- 😄 Pronouns: He/Him...<br>- ⚡ Fun fact:I enjoy breaking problems into smaller pieces until they become solvable — basically debugging life one step at a time. ...<br>-->
 
 
 ## 🌐 Socials:
